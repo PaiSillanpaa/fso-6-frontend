@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getAll, create, update, remove } from "./services/contacts";
+import { getAll, create, update, remove } from "./services/notes";
 import { Notification, ErrorNotification } from "./notification";
 import "./App.css";
 
